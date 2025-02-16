@@ -1,1 +1,1 @@
-A help Desk with agent assignment and chat between client and agent 
+CSD Help Desk used to collect issues from CSD clients and assigning support agents for each issues and notifies the client when the issues are resolved and provides a platform a for further sharing of inforamtion using chat .
